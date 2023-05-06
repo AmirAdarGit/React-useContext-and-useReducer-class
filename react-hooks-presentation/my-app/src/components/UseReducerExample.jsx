@@ -1,9 +1,9 @@
-import { Counter } from "./Counter";
+import { Calculator } from "./Calculator";
 
 export function UseReducerExample() {
 
     return (
-        <Counter/>
+        <Calculator/>
     );
 }
 
