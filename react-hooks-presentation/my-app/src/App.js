@@ -5,7 +5,7 @@ import { UseContextExample } from "./components/UseContextExample";
 function App() {
   return (
     <div className="App">
-      {/*<UseReducerExample /> /!* useReducer *!/*/}
+      <UseReducerExample /> {/* useReducer */}
       <UseContextExample /> {/* useContext */}
     </div>
   );

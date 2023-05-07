@@ -9,7 +9,6 @@ export function Calculator() {
     function increment() {
         dispatch({ type: "INCREMENT" });
     }
-
     function decrement() {
         dispatch({ type: "DECREMENT" });
     }
